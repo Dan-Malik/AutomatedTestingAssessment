@@ -1,0 +1,9 @@
+task\CreateUsersPage.class
+task\ManageJenkinsPage.class
+task\ManageUsersPage.class
+task\LoginPage.class
+task\NameConfigPage.class
+task\ProjectNamePage.class
+task\Constants.class
+task\FrontPage.class
+task\NewJobPage.class
